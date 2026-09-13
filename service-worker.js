@@ -1,4 +1,4 @@
-const CACHE = "gathering-splitter-v6";
+const CACHE = "gathering-splitter-v7";
 const ASSETS = [
   "./",
   "./index.html",
