@@ -1,0 +1,17 @@
+{
+  "name": "聚会记账",
+  "short_name": "聚会记账",
+  "description": "聚会多次记账，一键 AA 结算",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
