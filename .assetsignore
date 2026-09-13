@@ -1,0 +1,12 @@
+.git/
+.gitignore
+.assetsignore
+node_modules/
+tests/
+docs/
+.trae-html-share-packages/
+package.json
+package-lock.json
+bun.lock
+bun.lockb
+wrangler.jsonc
